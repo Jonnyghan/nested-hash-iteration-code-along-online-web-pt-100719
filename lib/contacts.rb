@@ -19,7 +19,7 @@ contacts.each do |name,data|
   if person == "Freddy Mercury"
     data.each do |attribute,stuff|
  
- # binding.pry
+  binding.pry
     end
   end
 end
